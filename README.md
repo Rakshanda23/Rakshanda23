@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshanda23" alt="rakshanda23" /></a> </p>
 
-- 🔭 I’m currently working on *SpendWise*
-
 - 🌱 I’m currently learning *UI Design*
 
 - 🤝 I’m looking for help with *Frontend*
